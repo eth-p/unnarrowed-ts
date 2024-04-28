@@ -1,0 +1,26 @@
+{
+  "name": "unnarrowed",
+  "description": "A type-only TypeScript library for detecting unnarrowed types and asserting narrowing of generic types.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "eth-p <me@eth-p.dev> (https://eth-p.dev)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eth-p/unnarrowed-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eth-p/unnarrowed-ts/issues"
+  },
+  "homepage": "https://github.com/eth-p/unnarrowed-ts#readme",
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "type-library",
+    "generics",
+    "utility-type",
+    "utility-types",
+    "associated-types"
+  ]
+}

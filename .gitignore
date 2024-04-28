@@ -1,0 +1,13 @@
+# System
+.DS_Store
+._*
+Desktop.init
+
+# Node
+node_modules
+
+# Editors
+.vscode
+*.swp
+.*.swp
+.idea
